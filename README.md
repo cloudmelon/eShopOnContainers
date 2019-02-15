@@ -128,3 +128,7 @@ You can create new issues at the issues section, do pull requests and/or send em
 ## Questions
 [QUESTION] Answer +1 if the solution is working for you (Through VS2017 or CLI environment):
 https://github.com/dotnet/eShopOnContainers/issues/107
+
+## References
+Deployment with Service Fabric
+https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-best-practices-overview
